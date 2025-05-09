@@ -1,6 +1,6 @@
 # DSPO: Direct Score Preference Optimization for Diffusion Model Alignment
 
-**This repository is an official PyTorch implementation of**  ["DSPO: Direct Score Preference Optimization for Diffusion Model Alignment"](https://openreview.net/pdf?id=DomBynQsqt) (ICLR 2025)
+**This repository is an official PyTorch implementation of**  ["DSPO: Direct Score Preference Optimization for Diffusion Model Alignment"](https://openreview.net/pdf?id=xyfb9HHvMe) (ICLR 2025)
 
 <img width="987" alt="image" src="model/model.jpg">
 
